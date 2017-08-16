@@ -1,0 +1,156 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-size: 0;
+  font-family: sans-serif;
+}
+
+#wrapper{
+  /*background-image: url("Capture.bmp");
+  background-repeat:no-repeat;*/
+  height: 470px;
+  width: 890px;
+  border: 1px solid black;
+}
+
+.left_cell{
+  display: inline-block;
+  margin-right: 4px;
+  margin-left: 3px;
+  width: 40px;
+  height: 40px;
+  vertical-align: top;
+}
+
+.left_cell h1{
+  font-size: 10px;
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.left_cell p{
+  font-size: 10px;
+  color: red;
+  text-align: center;
+  margin-top: 12px;
+}
+
+ul{
+  display: inline-block;
+  margin-right: 3px;
+  width: auto;
+  height: 42px;
+  vertical-align: top;
+}
+
+li{
+  display: inline-block;
+  margin-right: 3px;
+  width: 42px;
+  font-size: 10px;
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/*.top_cell p{
+  font-size: 10px;
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}*/
+
+.cell{
+  display: inline-block;
+  margin-right: 3px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+#Helium{
+  display: inline-block;
+  margin-left: 731px;
+  margin-right: 3px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
+
+.BAl{
+  display: inline-block;
+  margin-left: 461px;
+  margin-right: 3px;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  vertical-align: top;
+}
+
+.label{
+  display: inline-block;
+  margin-left: 28px;
+  width: 120px;
+  height: 40px;
+  vertical-align: top;
+}
+
+.label p{
+  font-size: 10px;
+  color: red;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.space{
+  width: 11px;
+  height: 10px;
+  display: inline-block;
+}
+
+.horizontal_margin{
+  width: 880px;
+  height: 1.8px;
+}
+
+.large_horizontal_margin{
+  width: 880px;
+  height: 22px;
+}
+
+.blue{
+  background-color: #689BFF;
+}
+
+.red{
+  background-color: #FD9A98;
+}
+
+.yellow{
+  background-color: #FECB00;
+}
+
+.green{
+  background-color: #1FCA21;
+}
+
+.atom_num{
+  font-size: 9px;
+  color: black;
+  margin-top: 2px;
+  text-align: center;
+}
+
+.atom_letter{
+  font-size: 14px;
+  color: blue;
+  text-align: center;
+}
+
+.atom_weight{
+  font-size: 9px;
+  color: black;
+  text-align: center;
+}
